@@ -1,3 +1,5 @@
+This repository is read-only for students. Download the materials and work on local copies.
+
 # Exploratory Data Analysis & Data Collection
 
 Student resources for the Master 1 EDA course
